@@ -1,2 +1,2 @@
-# Whatsapp-Qr-App
-Whatsapp qr gönderme uygulaması
+# Vergi-hesaplama
+Vergi hesaplaması
